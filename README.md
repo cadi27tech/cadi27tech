@@ -148,10 +148,10 @@ Top Rated on Upwork with 100% Job Success: 22 contracts, 12 of 12 rated contract
 
 ## Press
 
-<a href="https://cadi27tech.github.io/press/"><picture>
+<picture>
   <source media="(max-width: 600px)" srcset="assets/press-m.svg">
   <img src="assets/press.svg" alt="Press, October 2026: 3D Printing Industry, 3Druck.com, Romania Journal, Profit.ro, Observator News, Click!, Gorjul Azi, Gorjeanul, Vocea Olteniei, AS in Gorj">
-</picture></a>
+</picture>
 
 [3D Printing Industry](https://3dprintingindustry.com/news/3descu-enables-3d-printing-quotes-through-chatgpt-and-claude-255887/): 3Descu enables 3D printing quotes through ChatGPT and Claude &nbsp;/&nbsp; [3Druck.com](https://3druck.com/en/programs/3descu-integrates-ki-based-pricing-calculations-for-3d-printing-into-chatgpt-and-claude-02164231/) &nbsp;/&nbsp; [Romania Journal](https://www.romaniajournal.ro/business/companies/romanian-factory-3descu-opens-its-3d-printing-quotes-to-ai-assistants/) &nbsp;/&nbsp; [Profit.ro](https://www.profit.ro/povesti-cu-profit/foto-fabrica-pornita-intr-un-apartament-cu-5-imprimante-de-un-tanar-intors-acasa-a-ajuns-la-afaceri-de-circa-1-milion-lei-toata-lumea-se-astepta-sa-plec-22863423) &nbsp;/&nbsp; [Observator News](https://observatornews.ro/economic/afacerea-pornita-de-la-zero-de-un-tanar-din-gorj-intrun-apartament-a-ajuns-la-aproape-un-milion-de-lei-669802.html) &nbsp;/&nbsp; [all ten](https://cadi27tech.github.io/press/)
 
