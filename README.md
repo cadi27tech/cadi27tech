@@ -121,7 +121,7 @@ In review: [docker/mcp-registry #5852](https://github.com/docker/mcp-registry/pu
 
 ## Stack
 
-| | |
+| Area | Tools |
 |---|---|
 | AI and agents | Claude, Gemini via Vertex AI (EU), Model Context Protocol, tool registries, confirm-first assistants, golden test sets |
 | Languages and apps | TypeScript, Python, React, Next.js, Deno |
