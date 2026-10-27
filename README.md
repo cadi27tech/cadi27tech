@@ -5,13 +5,13 @@
 
 **Head of AI & Automation.** Takes AI systems for finance and accounting from first commit to production, then runs them, with the controls a regulator and a finance director expect. Built an Irish chartered accountancy firm's AI service line from zero. Led a regulated FinTech through its EU licence audit as COO. Founded 3Descu and grew it from five 3D printers in an apartment to a 200+ 3D printer factory; co-founder of Systemartis, an AI systems studio. Clients and customers in 32+ countries on four continents.
 
-**[cadi27tech.github.io](https://cadi27tech.github.io)** &nbsp;/&nbsp; [CV (PDF)](https://cadi27tech.github.io/cv.pdf) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/adriancapraru27) &nbsp;/&nbsp; [Upwork](https://www.upwork.com/freelancers/cadrian)
+**[adriancapraru.com](https://adriancapraru.com)** &nbsp;/&nbsp; [CV (PDF)](https://adriancapraru.com/cv.pdf) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/adriancapraru27) &nbsp;/&nbsp; [Upwork](https://www.upwork.com/freelancers/cadrian)
 
 <br>
 
 ## Built and running in production
 
-Five systems, each drawn the way it runs. Dashed frame: outside the system. Double frame: a person or a hard check. Orange: live in production. Client names are withheld; the long-form write-ups are in [production-case-studies](https://github.com/cadi27tech/production-case-studies) and on [the site](https://cadi27tech.github.io/work/).
+Five systems, each drawn the way it runs. Dashed frame: outside the system. Double frame: a person or a hard check. Orange: live in production. Client names are withheld; the long-form write-ups are in [production-case-studies](https://github.com/cadi27tech/production-case-studies) and on [the site](https://adriancapraru.com/work/).
 
 ### 01 &nbsp;/&nbsp; An accountancy firm's client platform, live in 10 days
 
@@ -26,7 +26,7 @@ An Irish chartered accountancy and audit firm offered no AI. Adrian built its AI
   <img src="assets/sys-accountancy.svg" alt="System drawing: a client uploads a bill; two EU-hosted models must agree on every field; the VAT number is checked against VIES; the bill is drafted in Xero for a person to approve; approved payments export as a SEPA file. An AML gate and an audit log sit underneath.">
 </picture>
 
-<sub>TypeScript, Vercel (Dublin), Supabase eu-west-1 with row-level security, Gemini via Vertex AI EU, Xero API, VIES, SEPA pain.001 &nbsp;/&nbsp; [Case study](https://cadi27tech.github.io/work/accountancy-saas-live-in-10-days/) &nbsp;/&nbsp; [60 s film](https://cadi27tech.github.io/work/accountancy-saas-live-in-10-days/#film)</sub>
+<sub>TypeScript, Vercel (Dublin), Supabase eu-west-1 with row-level security, Gemini via Vertex AI EU, Xero API, VIES, SEPA pain.001 &nbsp;/&nbsp; [Case study](https://adriancapraru.com/work/accountancy-saas-live-in-10-days/) &nbsp;/&nbsp; [60 s film](https://adriancapraru.com/work/accountancy-saas-live-in-10-days/#film)</sub>
 
 ### 02 &nbsp;/&nbsp; HubSpot to Xero across 3 legal entities
 
@@ -41,7 +41,7 @@ Closed deals become approved Xero invoices in the right legal entity (US, UK or 
   <img src="assets/sys-hubspot-xero.svg" alt="System drawing: a Closed Won HubSpot deal is routed to the right entity and currency, drafted in one of three Xero organisations, approved by finance through a signed link, then emailed and reminded until paid. Failures retry five times, then land in a dead-letter queue a person reviews.">
 </picture>
 
-<sub>n8n, HubSpot API, Xero API (3 tenants, OAuth2), Supabase, HMAC webhooks &nbsp;/&nbsp; [Case study](https://cadi27tech.github.io/work/hubspot-to-xero-multi-entity-invoicing/) &nbsp;/&nbsp; [60 s film](https://cadi27tech.github.io/work/hubspot-to-xero-multi-entity-invoicing/#film)</sub>
+<sub>n8n, HubSpot API, Xero API (3 tenants, OAuth2), Supabase, HMAC webhooks &nbsp;/&nbsp; [Case study](https://adriancapraru.com/work/hubspot-to-xero-multi-entity-invoicing/) &nbsp;/&nbsp; [60 s film](https://adriancapraru.com/work/hubspot-to-xero-multi-entity-invoicing/#film)</sub>
 
 ### 03 &nbsp;/&nbsp; Xero prepayment journals, 107 of 107
 
@@ -56,7 +56,7 @@ Supplier bills for an Irish tour operator are read, coded and moved from prepaym
   <img src="assets/sys-prepayments.svg" alt="System drawing: a supplier bill in Xero is read by a reader that checks its own VAT arithmetic, uncertain cases go to a review list, a running draft journal moves prepayments to expense by arrival month, the bookkeeper approves at month end, and the release is guarded against running twice.">
 </picture>
 
-<sub>Python 3.12, Xero Accounting API (OAuth2), GitHub Actions &nbsp;/&nbsp; [Case study](https://cadi27tech.github.io/work/xero-prepayment-journals-automation/)</sub>
+<sub>Python 3.12, Xero Accounting API (OAuth2), GitHub Actions &nbsp;/&nbsp; [Case study](https://adriancapraru.com/work/xero-prepayment-journals-automation/)</sub>
 
 ### 04 &nbsp;/&nbsp; 3Descu: a factory platform, and an MCP server in the official registry
 
@@ -72,7 +72,7 @@ Founded in 2022 with an EU start-up grant and five 3D printers in an apartment. 
   <img src="assets/sys-3descu.svg" alt="System drawing: an engineer uploads a CAD file for mesh analysis in the browser, or ChatGPT or Claude asks the MCP server; both reach the calibrated pricing engine, then checkout, then production on 200+ 3D printers. The MCP server is listed in the official MCP Registry.">
 </picture>
 
-<sub>React, TypeScript, Supabase (Postgres, Edge Functions), Stripe, Model Context Protocol, GitHub Actions &nbsp;/&nbsp; [quote.3descu.com](https://quote.3descu.com) &nbsp;/&nbsp; [Case study](https://cadi27tech.github.io/work/3d-printing-factory-platform-mcp-server/) &nbsp;/&nbsp; [60 s film](https://cadi27tech.github.io/work/3d-printing-factory-platform-mcp-server/#film)</sub>
+<sub>React, TypeScript, Supabase (Postgres, Edge Functions), Stripe, Model Context Protocol, GitHub Actions &nbsp;/&nbsp; [quote.3descu.com](https://quote.3descu.com) &nbsp;/&nbsp; [Case study](https://adriancapraru.com/work/3d-printing-factory-platform-mcp-server/) &nbsp;/&nbsp; [60 s film](https://adriancapraru.com/work/3d-printing-factory-platform-mcp-server/#film)</sub>
 
 ### 05 &nbsp;/&nbsp; An EU crowdfunding licence, as COO
 
@@ -87,9 +87,9 @@ Three years as COO of HighCrowd, a real-estate crowdfunding platform for retail 
   <img src="assets/sys-ecsp.svg" alt="System drawing: a retail investor passes automated onboarding, an entry knowledge test and a reflection period before investing through segregated fund flows; the authorisation file goes through the ASF audit; the result is the ECSP licence granted on 25 March 2024.">
 </picture>
 
-<sub>ECSP, Regulation (EU) 2020/1503, KYC and AML, PSD2, penetration testing, policy set &nbsp;/&nbsp; [Case study](https://cadi27tech.github.io/work/eu-crowdfunding-licence-asf-authorisation/)</sub>
+<sub>ECSP, Regulation (EU) 2020/1503, KYC and AML, PSD2, penetration testing, policy set &nbsp;/&nbsp; [Case study](https://adriancapraru.com/work/eu-crowdfunding-licence-asf-authorisation/)</sub>
 
-**Also in production:** an [EU-sovereign financial reporting platform](https://cadi27tech.github.io/work/eu-sovereign-financial-reporting-platform/) for the Dutch education sector, with no US-owned service in the stack, 52 of 52 sign-in end-to-end tests and 5 of 5 row-level security policies caught when deliberately broken; and [daily revenue reporting for a 5-hotel group](https://cadi27tech.github.io/work/hotel-group-daily-revenue-reporting/), matched to the accountants' own figures cell by cell for every hotel.
+**Also in production:** an [EU-sovereign financial reporting platform](https://adriancapraru.com/work/eu-sovereign-financial-reporting-platform/) for the Dutch education sector, with no US-owned service in the stack, 52 of 52 sign-in end-to-end tests and 5 of 5 row-level security policies caught when deliberately broken; and [daily revenue reporting for a 5-hotel group](https://adriancapraru.com/work/hotel-group-daily-revenue-reporting/), matched to the accountants' own figures cell by cell for every hotel.
 
 <br>
 
@@ -103,7 +103,7 @@ Three years as COO of HighCrowd, a real-estate crowdfunding platform for retail 
 | [3descu-social-agent](https://github.com/cadi27tech/3descu-social-agent) | EUR 0 a month calendar publisher on GitHub Actions and the Meta Graph API. Idempotent, on time, never backfills a missed post. |
 | [blueprint-svg](https://github.com/cadi27tech/blueprint-svg) | The drawing kit behind every diagram on this page: one spec, a wide and a phone layout, renders inside an `<img>`. |
 | [production-case-studies](https://github.com/cadi27tech/production-case-studies) | Seven production systems written up long form, with system drawings. No client code. |
-| [cadi27tech.github.io](https://github.com/cadi27tech/cadi27tech.github.io) | The personal site: a static build from one content file, a motion layer, Playwright QA at desktop and phone widths. |
+| [adriancapraru.com](https://github.com/cadi27tech/cadi27tech.github.io) | The personal site: a static build from one content file, a motion layer, Playwright QA at desktop and phone widths. |
 | [real-estate-ai-analyzer](https://github.com/cadi27tech/real-estate-ai-analyzer) | Streamlit investment analyzer from 2025: tested deterministic finance module, LLM market notes ([live demo](https://real-estate-ai-analyzer.streamlit.app/)). |
 
 **Merged upstream:** [punkpeye/awesome-remote-mcp-servers #2201](https://github.com/punkpeye/awesome-remote-mcp-servers/pull/2201), [TensorBlock/awesome-mcp-servers #4125](https://github.com/TensorBlock/awesome-mcp-servers/pull/4125), [mcpHQ/awesome-mcp-servers #325](https://github.com/mcpHQ/awesome-mcp-servers/pull/325), [toolsdk-ai/toolsdk-mcp-registry #930](https://github.com/toolsdk-ai/toolsdk-mcp-registry/pull/930).
@@ -154,10 +154,10 @@ Top Rated on Upwork with 100% Job Success: 22 contracts, 12 of 12 rated contract
   <img src="assets/press.svg" alt="Press, October 2026: 3D Printing Industry, 3Druck.com, Romania Journal, Profit.ro, Observator News, Click!, Gorjul Azi, Gorjeanul, Vocea Olteniei, AS in Gorj">
 </picture>
 
-[3D Printing Industry](https://3dprintingindustry.com/news/3descu-enables-3d-printing-quotes-through-chatgpt-and-claude-255887/): 3Descu enables 3D printing quotes through ChatGPT and Claude &nbsp;/&nbsp; [3Druck.com](https://3druck.com/en/programs/3descu-integrates-ki-based-pricing-calculations-for-3d-printing-into-chatgpt-and-claude-02164231/) &nbsp;/&nbsp; [Romania Journal](https://www.romaniajournal.ro/business/companies/romanian-factory-3descu-opens-its-3d-printing-quotes-to-ai-assistants/) &nbsp;/&nbsp; [Profit.ro](https://www.profit.ro/povesti-cu-profit/foto-fabrica-pornita-intr-un-apartament-cu-5-imprimante-de-un-tanar-intors-acasa-a-ajuns-la-afaceri-de-circa-1-milion-lei-toata-lumea-se-astepta-sa-plec-22863423) &nbsp;/&nbsp; [Observator News](https://observatornews.ro/economic/afacerea-pornita-de-la-zero-de-un-tanar-din-gorj-intrun-apartament-a-ajuns-la-aproape-un-milion-de-lei-669802.html) &nbsp;/&nbsp; [all ten](https://cadi27tech.github.io/press/)
+[3D Printing Industry](https://3dprintingindustry.com/news/3descu-enables-3d-printing-quotes-through-chatgpt-and-claude-255887/): 3Descu enables 3D printing quotes through ChatGPT and Claude &nbsp;/&nbsp; [3Druck.com](https://3druck.com/en/programs/3descu-integrates-ki-based-pricing-calculations-for-3d-printing-into-chatgpt-and-claude-02164231/) &nbsp;/&nbsp; [Romania Journal](https://www.romaniajournal.ro/business/companies/romanian-factory-3descu-opens-its-3d-printing-quotes-to-ai-assistants/) &nbsp;/&nbsp; [Profit.ro](https://www.profit.ro/povesti-cu-profit/foto-fabrica-pornita-intr-un-apartament-cu-5-imprimante-de-un-tanar-intors-acasa-a-ajuns-la-afaceri-de-circa-1-milion-lei-toata-lumea-se-astepta-sa-plec-22863423) &nbsp;/&nbsp; [Observator News](https://observatornews.ro/economic/afacerea-pornita-de-la-zero-de-un-tanar-din-gorj-intrun-apartament-a-ajuns-la-aproape-un-milion-de-lei-669802.html) &nbsp;/&nbsp; [all ten](https://adriancapraru.com/press/)
 
 ## Contact
 
-**[cadi27tech.github.io](https://cadi27tech.github.io)** &nbsp;/&nbsp; [CV (PDF)](https://cadi27tech.github.io/cv.pdf) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/adriancapraru27) &nbsp;/&nbsp; [Upwork](https://www.upwork.com/freelancers/cadrian)
+**[adriancapraru.com](https://adriancapraru.com)** &nbsp;/&nbsp; [CV (PDF)](https://adriancapraru.com/cv.pdf) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/adriancapraru27) &nbsp;/&nbsp; [Upwork](https://www.upwork.com/freelancers/cadrian)
 
 <sub>Every drawing on this page is generated with [blueprint-svg](https://github.com/cadi27tech/blueprint-svg). Every figure is sourced on the linked case study.</sub>
