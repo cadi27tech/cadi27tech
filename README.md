@@ -26,7 +26,7 @@ An Irish chartered accountancy and audit firm offered no AI. Adrian built its AI
   <img src="assets/sys-accountancy.svg" alt="System drawing: a client uploads a bill; two EU-hosted models must agree on every field; the VAT number is checked against VIES; the bill is drafted in Xero for a person to approve; approved payments export as a SEPA file. An AML gate and an audit log sit underneath.">
 </picture>
 
-<sub>TypeScript, Vercel (Dublin), Supabase eu-west-1 with row-level security, Gemini via Vertex AI EU, Xero API, VIES, SEPA pain.001 &nbsp;/&nbsp; [Case study](https://cadi27tech.github.io/work/accountancy-saas-live-in-10-days/)</sub>
+<sub>TypeScript, Vercel (Dublin), Supabase eu-west-1 with row-level security, Gemini via Vertex AI EU, Xero API, VIES, SEPA pain.001 &nbsp;/&nbsp; [Case study](https://cadi27tech.github.io/work/accountancy-saas-live-in-10-days/) &nbsp;/&nbsp; [60 s film](https://cadi27tech.github.io/work/accountancy-saas-live-in-10-days/#film)</sub>
 
 ### 02 &nbsp;/&nbsp; HubSpot to Xero across 3 legal entities
 
@@ -41,7 +41,7 @@ Closed deals become approved Xero invoices in the right legal entity (US, UK or 
   <img src="assets/sys-hubspot-xero.svg" alt="System drawing: a Closed Won HubSpot deal is routed to the right entity and currency, drafted in one of three Xero organisations, approved by finance through a signed link, then emailed and reminded until paid. Failures retry five times, then land in a dead-letter queue a person reviews.">
 </picture>
 
-<sub>n8n, HubSpot API, Xero API (3 tenants, OAuth2), Supabase, HMAC webhooks &nbsp;/&nbsp; [Case study](https://cadi27tech.github.io/work/hubspot-to-xero-multi-entity-invoicing/)</sub>
+<sub>n8n, HubSpot API, Xero API (3 tenants, OAuth2), Supabase, HMAC webhooks &nbsp;/&nbsp; [Case study](https://cadi27tech.github.io/work/hubspot-to-xero-multi-entity-invoicing/) &nbsp;/&nbsp; [60 s film](https://cadi27tech.github.io/work/hubspot-to-xero-multi-entity-invoicing/#film)</sub>
 
 ### 03 &nbsp;/&nbsp; Xero prepayment journals, 107 of 107
 
@@ -72,7 +72,7 @@ Founded in 2022 with an EU start-up grant and 5 printers in an apartment. Today 
   <img src="assets/sys-3descu.svg" alt="System drawing: an engineer uploads a CAD file for mesh analysis in the browser, or ChatGPT or Claude asks the MCP server; both reach the calibrated pricing engine, then checkout, then production on 200+ printers. The MCP server is listed in the official MCP Registry.">
 </picture>
 
-<sub>React, TypeScript, Supabase (Postgres, Edge Functions), Stripe, Model Context Protocol, GitHub Actions &nbsp;/&nbsp; [quote.3descu.com](https://quote.3descu.com) &nbsp;/&nbsp; [Case study](https://cadi27tech.github.io/work/3d-printing-factory-platform-mcp-server/)</sub>
+<sub>React, TypeScript, Supabase (Postgres, Edge Functions), Stripe, Model Context Protocol, GitHub Actions &nbsp;/&nbsp; [quote.3descu.com](https://quote.3descu.com) &nbsp;/&nbsp; [Case study](https://cadi27tech.github.io/work/3d-printing-factory-platform-mcp-server/) &nbsp;/&nbsp; [60 s film](https://cadi27tech.github.io/work/3d-printing-factory-platform-mcp-server/#film)</sub>
 
 ### 05 &nbsp;/&nbsp; An EU crowdfunding licence, as COO
 
