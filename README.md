@@ -3,7 +3,7 @@
   <img src="assets/header.svg" alt="Adrian Capraru, Head of AI and Automation. Most AI projects in finance die between the demo and the audit. Adrian builds the ones that survive both.">
 </picture>
 
-**Head of AI & Automation.** Takes AI systems for finance and accounting from first commit to production, then runs them, with the controls a regulator and a finance director expect. Built an Irish chartered accountancy firm's AI service line from zero. Led a regulated FinTech through its EU licence audit as COO. Founded 3Descu and grew it from 5 3D printers in an apartment to a 200+ 3D printer factory; co-founder of Systemartis, an AI systems studio. Clients and customers in 32+ countries on four continents.
+**Head of AI & Automation.** Takes AI systems for finance and accounting from first commit to production, then runs them, with the controls a regulator and a finance director expect. Built an Irish chartered accountancy firm's AI service line from zero. Led a regulated FinTech through its EU licence audit as COO. Founded 3Descu and grew it from five 3D printers in an apartment to a 200+ 3D printer factory; co-founder of Systemartis, an AI systems studio. Clients and customers in 32+ countries on four continents.
 
 **[cadi27tech.github.io](https://cadi27tech.github.io)** &nbsp;/&nbsp; [CV (PDF)](https://cadi27tech.github.io/cv.pdf) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/adriancapraru27) &nbsp;/&nbsp; [Upwork](https://www.upwork.com/freelancers/cadrian)
 
@@ -60,7 +60,7 @@ Supplier bills for an Irish tour operator are read, coded and moved from prepaym
 
 ### 04 &nbsp;/&nbsp; 3Descu: a factory platform, and an MCP server in the official registry
 
-Founded in 2022 with an EU start-up grant and 5 3D printers in an apartment. Today 200+ 3D printers, an ISO 9001:2015 certified company, buyers in 26 of the 27 EU member states. Adrian wrote all of its software alone, directing AI coding agents behind tests and review gates.
+Founded in 2022 with an EU start-up grant and five 3D printers in an apartment. Today 200+ 3D printers, an ISO 9001:2015 certified company, buyers in 26 of the 27 EU member states. Adrian wrote all of its software alone, directing AI coding agents behind tests and review gates.
 
 - Quoting-to-fulfilment platform in 4 languages: **929** commits and **~400** merged pull requests in under five months, **38** edge functions
 - Release gate of **120+** checkers running about **260K** assertions, with mutation-tested guards
