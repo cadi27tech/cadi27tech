@@ -98,6 +98,7 @@ Three years as COO of HighCrowd, a real-estate crowdfunding platform for retail 
 | Repository | What it is |
 |---|---|
 | [3descu-mcp-quote](https://github.com/cadi27tech/3descu-mcp-quote) | Case study and connection guide for the public 3Descu MCP server: real factory quotes inside Claude and ChatGPT. A daily smoke test runs against the live endpoint. |
+| [adrian-capraru-mcp](https://github.com/cadi27tech/adrian-capraru-mcp) | An agent-readable profile: six read-only MCP tools so Claude, ChatGPT or Cursor can read his roles, case studies, published prices and availability, and return the routes to hire him. Generated from the site data; sends nothing. |
 | [ai-agent-guardrails](https://github.com/cadi27tech/ai-agent-guardrails) | Claude Code hooks written after real incidents with AI coding agents. A guard that cannot read its input fails loud. |
 | [3descu-social-agent](https://github.com/cadi27tech/3descu-social-agent) | EUR 0 a month calendar publisher on GitHub Actions and the Meta Graph API. Idempotent, on time, never backfills a missed post. |
 | [blueprint-svg](https://github.com/cadi27tech/blueprint-svg) | The drawing kit behind every diagram on this page: one spec, a wide and a phone layout, renders inside an `<img>`. |
