@@ -5,7 +5,17 @@
 
 **Head of AI & Automation.** Takes AI systems for finance and accounting from first commit to production, then runs them, with the controls a regulator and a finance director expect. Built an Irish chartered accountancy firm's AI service line from zero. Led a regulated FinTech through its EU licence audit as COO. Founded 3Descu and grew it from five 3D printers in an apartment to a 200+ 3D printer factory; co-founder of Systemartis, an AI systems studio. Clients and customers in 32+ countries on four continents.
 
-**[adriancapraru.com](https://adriancapraru.com)** &nbsp;/&nbsp; [CV (PDF)](https://adriancapraru.com/cv.pdf) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/adriancapraru27) &nbsp;/&nbsp; [Upwork](https://www.upwork.com/freelancers/cadrian)
+**[sourceincluded.com](https://sourceincluded.com)** &nbsp;/&nbsp; **[adriancapraru.com](https://adriancapraru.com)** &nbsp;/&nbsp; [CV (PDF)](https://adriancapraru.com/cv.pdf) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/adriancapraru27) &nbsp;/&nbsp; [Upwork](https://www.upwork.com/freelancers/cadrian)
+
+<br>
+
+## Source Included
+
+Free AI systems community and Vault at **[sourceincluded.com](https://sourceincluded.com)**: 8 production AI systems with full source code, real running costs, setup guides, and 119 step-by-step lessons on Skool.
+
+- **[business-scanner](https://github.com/cadi27tech/business-scanner)**: 117-check local business website audit across 18 modules (speed, SEO, reviews, AI visibility, email deliverability, privacy)
+- **[claude-code-setup](https://github.com/cadi27tech/claude-code-setup)**: production rules, guardrail hooks, memory system, and approval gates used across 40+ Claude Code projects
+- **All 8 systems + live Gap Radar + personal 30-day plan**: free inside the Vault at **[sourceincluded.com](https://sourceincluded.com)**
 
 <br>
 
